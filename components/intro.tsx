@@ -31,8 +31,8 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/juan-esteban.jpeg"
-              alt="Ricardo portrait"
+              src="https://res.cloudinary.com/ddbf82xnm/image/upload/v1738437124/racrvhlc0ju5g3wqyzsz.jpg"
+              alt="Esteban portrait"
               width="192"
               height="192"
               quality="95"
