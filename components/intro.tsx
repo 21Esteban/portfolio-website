@@ -30,13 +30,13 @@ export default function Intro() {
               duration: 0.2,
             }}
           >
-            <Image
+            <img
               src="https://res.cloudinary.com/ddbf82xnm/image/upload/v1738437124/racrvhlc0ju5g3wqyzsz.jpg"
               alt="Esteban portrait"
               width="192"
               height="192"
-              quality="95"
-              priority={true}
+              // quality="95"
+              // priority={true}
               className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
             />
           </motion.div>
